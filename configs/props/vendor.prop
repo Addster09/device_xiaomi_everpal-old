@@ -320,6 +320,8 @@ ro.vendor.radio.max.multisim=dsds
 # SurfaceFlinger
 ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
 ro.surface_flinger.protected_contents=true
+debug.sf.enable_transaction_tracing=false
+debug.sf.latch_unsignaled=true
 
 # TEE
 ro.vendor.mtk_microtrust_tee_support=1
